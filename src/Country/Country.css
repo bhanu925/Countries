@@ -1,0 +1,26 @@
+.containerstyles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.cards {
+  border: 1px solid;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  height: 160px;
+}
+
+.imagestyles {
+  width: 100px;
+  height: 100px;
+}
